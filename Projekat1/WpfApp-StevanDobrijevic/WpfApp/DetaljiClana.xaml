@@ -1,0 +1,33 @@
+﻿<Window x:Class="WpfApp.DetaljiClana"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="Airsoft team ''Wild Hogs''" Height="450" Width="390" FontFamily="Sitka Text">
+    <Window.Background>
+        <ImageBrush ImageSource="http://pantex.com.ua/media/zoo/images/multicam_b_5d22ad4fc000f0146710c7135b8c7ecb.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Image x:Name="slika1"  HorizontalAlignment="Left" Height="110" Margin="10,10,0,0" VerticalAlignment="Top" Width="105" UseLayoutRounding="False"/>
+
+        <Label x:Name="labelIme"           Content="Ime :"            HorizontalAlignment="Left" Margin="135,10,0,0"  VerticalAlignment="Top" Width="70"     Height="30" FontSize="14" VerticalContentAlignment="Center" FontWeight="Bold" Foreground="White"/>
+        <Label x:Name="labelPrezime"       Content="Prezime :"        HorizontalAlignment="Left" Margin="135,62,0,0"  VerticalAlignment="Top" Width="78"     Height="30" FontSize="14" VerticalContentAlignment="Center" FontWeight="Bold" Foreground="White"/>
+        <Label x:Name="labelCin"           Content="Cin :"            HorizontalAlignment="Left" Margin="135,169,0,0" VerticalAlignment="Top" Width="70"     Height="30" FontSize="14" VerticalContentAlignment="Center" FontWeight="Bold" Foreground="White"/>
+        <Label x:Name="labelStarost"       Content="Starost :"        HorizontalAlignment="Left" Margin="135,116,0,0" VerticalAlignment="Top" Width="70"     Height="30" FontSize="14" VerticalContentAlignment="Center" FontWeight="Bold" Foreground="White"/>
+        <Label x:Name="labelGod"           Content="god."             HorizontalAlignment="Left" Margin="250,116,0,0" VerticalAlignment="Top" Width="40"     Height="30" FontSize="14" VerticalContentAlignment="Center" FontWeight="Bold" Foreground="White"/>
+
+        <Label x:Name="labelSlikaClana"    Content="Slika clana"      HorizontalAlignment="Left" Margin="10,120,0,0"  VerticalAlignment="Top" Width="105"                FontSize="11" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"  FontStyle="Italic" Background="#00000000" BorderBrush="#00000000" Foreground="White"/>
+        <Label x:Name="labelDetaljiOClanu" Content="Detalji o clanu:" HorizontalAlignment="Left" Margin="10,199,0,0"  VerticalAlignment="Top" Width="128"                FontSize="14" VerticalContentAlignment="Center" FontWeight="Bold" Foreground="White"/>
+
+        <TextBlock x:Name="textBlockIme"     TextAlignment="Left" Height="22"  Width="150" Margin="220,18,7,0"  TextWrapping="Wrap" VerticalAlignment="Top"  HorizontalAlignment="Left" FontSize="14" Foreground="White" FontWeight="Bold"/>
+        <TextBlock x:Name="textBlockPrezime" TextAlignment="Left" Height="22"  Width="150" Margin="220,70,7,0"  TextWrapping="Wrap" VerticalAlignment="Top"  HorizontalAlignment="Left" FontSize="14" Foreground="White" FontWeight="Bold"/>
+        <TextBlock x:Name="textBlockStarost" TextAlignment="Left" Height="24"  Width="30"  Margin="220,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top"  HorizontalAlignment="Left" FontSize="14" Foreground="White" FontWeight="Bold"/>
+        <TextBlock x:Name="textBlockCin"     TextAlignment="Left" Height="22"  Width="150" Margin="220,177,7,0" TextWrapping="Wrap" VerticalAlignment="Top"  HorizontalAlignment="Left" FontSize="14" Foreground="White" FontWeight="Bold"/>
+        <TextBlock x:Name="textBlockDetalji" TextAlignment="Left" Height="139" Width="360" Margin="10,227,0,0"  TextWrapping="Wrap" VerticalAlignment="Top"  HorizontalAlignment="Left" FontSize="13" Foreground="White" Background="#FFD1B482" />
+
+        <Button x:Name="buttonIzadji" Content="IZADJI" HorizontalAlignment="Left" Height="30" Margin="197,379,0,0" VerticalAlignment="Top" Width="165" Click="ButtonIzadji_Click" Background="#FFD1B482" BorderBrush="#FFB49560" Foreground="#FFE62C2C" FontSize="15" FontWeight="Bold" FontFamily="Sitka Text" HorizontalContentAlignment="Center"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,61 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="Airsoft team ''Wild Hogs''" Height="540" Width="900" FontFamily="Sitka Text" Closing="Window_Closing">
+    <Window.Background>
+        <ImageBrush ImageSource="http://pantex.com.ua/media/zoo/images/multicam_b_5d22ad4fc000f0146710c7135b8c7ecb.jpg"/>
+    </Window.Background>
+
+    <Grid>
+        <Rectangle HorizontalAlignment="Left" Height="17" Margin="30,415,0,0" Stroke="#FFB49560" VerticalAlignment="Top" Width="830" Fill="#FFD1B482" />
+        <Button x:Name="buttonDodajNovogClana" Content="Dodaj novog clana" HorizontalAlignment="Left" Height="43" Margin="30,446,0,0"  VerticalAlignment="Top" Width="180" Background="#FFD1B482" BorderBrush="#FFB49560" Foreground="#FFE62C2C" FontSize="15" FontWeight="Bold" FontFamily="Sitka Text" HorizontalContentAlignment="Center" Click="ButtonDodajNovogClana_Click"/>
+        <Button x:Name="buttonIzadji"          Content="Izadji"            HorizontalAlignment="Left" Height="43" Margin="680,446,0,0" VerticalAlignment="Top" Width="180" Background="#FFD1B482" BorderBrush="#FFB49560" Foreground="#FFE62C2C" FontSize="15" FontWeight="Bold" FontFamily="Sitka Text" HorizontalContentAlignment="Center" Click="ButtonIzadji_Click"/>
+
+        <Label x:Name="labelNaslov" Content="CLANOVI" HorizontalAlignment="Left" Margin="30,10,0,0" VerticalAlignment="Top" Height="45" Width="821" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontFamily="Sitka Text" FontSize="30" Background="#00000000" FontWeight="Bold" FontStyle="Italic" IsHitTestVisible="False" RenderTransformOrigin="0.5,0.5" Foreground="White" BorderBrush="White" >
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1.3"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+
+
+        <DataGrid x:Name="dataGridAirsoftTim" ItemsSource="{Binding Clanovi}" AutoGenerateColumns="False" SelectionMode="Single" IsReadOnly="True"  HorizontalAlignment="Left" Height="350" Margin="30,60,0,0" VerticalAlignment="Top" Width="830" Background="#FFD1B482"  >
+            <DataGrid.Columns>
+                <DataGridTemplateColumn Header="Slika">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image  Source="{Binding SlikaClana}" Height="95" Width="100" Margin="0,5,0,5" Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTextColumn Header="Ime"     Binding="{Binding Ime}"     Width="120" FontFamily="Sitka Text" FontWeight="Bold" />
+                <DataGridTextColumn Header="Prezime" Binding="{Binding Prezime}" Width="120" FontFamily="Sitka Text" FontWeight="Bold" />
+                <DataGridTextColumn Header="Godina"  Binding="{Binding Starost}" Width="60"  FontFamily="Sitka Text" FontWeight="Bold" />
+                <DataGridTextColumn Header="Cin"     Binding="{Binding Cin}"     Width="160" FontFamily="Sitka Text" FontWeight="Bold" />
+                <DataGridTextColumn Header="Datum"   Binding="{Binding Datum}"   Width="70"  FontFamily="Sitka Text" FontWeight="Bold" />
+                <DataGridTemplateColumn Width="*">
+
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel  HorizontalAlignment="Center" VerticalAlignment="Center">
+                                <Button x:Name="Detalji" Content="Detalji" Click="Detalji_Click" Width="125" Height="30" Background="#FFD1B482"   FontFamily="Sitka Text" Foreground="#FFE62C2C" BorderBrush="#FFB49560" FontSize="14" FontWeight="Bold" Margin="0,2,0,2" />
+                                <Button x:Name="Izmeni"  Content="Izmeni"  Click="Izmeni_Click"  Width="125" Height="30"  Background="#FFD1B482"  FontFamily="Sitka Text" Foreground="#FFE62C2C" BorderBrush="#FFB49560" FontSize="14" FontWeight="Bold" Margin="0,2,0,2"/>
+                                <Button x:Name="Obrisi"  Content="Obrisi"  Click="Obrisi_Click"  Width="125" Height="30"  Background="#FFD1B482"  FontFamily="Sitka Text" Foreground="#FFE62C2C" BorderBrush="#FFB49560" FontSize="14" FontWeight="Bold" Margin="0,2,0,2"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

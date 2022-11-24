@@ -1,0 +1,70 @@
+E:\HCI\WpfApp\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+E:\HCI\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+E:\HCI\WpfApp\WpfApp\obj\Debug\App.g.cs
+E:\HCI\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+E:\HCI\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+E:\HCI\WpfApp\WpfApp\obj\Debug\AddClan.g.cs
+E:\HCI\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+E:\HCI\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+E:\HCI\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+E:\HCI\WpfApp\WpfApp\bin\Debug\Classes.dll
+E:\HCI\WpfApp\WpfApp\bin\Debug\Classes.pdb
+E:\HCI\WpfApp\WpfApp\bin\Debug\Classes.dll.config
+E:\HCI\WpfApp\WpfApp\obj\Debug\AddClan.baml
+E:\HCI\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+E:\HCI\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+E:\HCI\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+E:\HCI\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+E:\HCI\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+E:\HCI\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+E:\HCI\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+E:\HCI\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+E:\HCI\WpfApp\WpfApp\obj\Debug\DetaljiClana.g.cs
+E:\HCI\WpfApp\WpfApp\obj\Debug\DetaljiClana.baml
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\bin\Debug\Classes.dll
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\bin\Debug\Classes.pdb
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\bin\Debug\Classes.dll.config
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\AddClan.g.cs
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\DetaljiClana.g.cs
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\App.g.cs
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\AddClan.baml
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\DetaljiClana.baml
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+E:\FTN\Interakcija čovek računar\HCI_Projekat_05.11.2019\HCI\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\bin\Debug\Classes.dll
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\bin\Debug\Classes.pdb
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\bin\Debug\Classes.dll.config
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\WpfApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\AddClan.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\DetaljiClana.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\App.g.cs
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\AddClan.baml
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\DetaljiClana.baml
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\WpfApp\obj\Debug\WpfApp.pdb

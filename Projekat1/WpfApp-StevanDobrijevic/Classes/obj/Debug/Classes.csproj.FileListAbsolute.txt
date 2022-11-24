@@ -1,0 +1,13 @@
+E:\HCI\WpfApp\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+E:\HCI\WpfApp\Classes\bin\Debug\Classes.dll.config
+E:\HCI\WpfApp\Classes\bin\Debug\Classes.dll
+E:\HCI\WpfApp\Classes\bin\Debug\Classes.pdb
+E:\HCI\WpfApp\Classes\obj\Debug\Classes.dll
+E:\HCI\WpfApp\Classes\obj\Debug\Classes.pdb
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\Classes\bin\Debug\Classes.dll.config
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\Classes\bin\Debug\Classes.dll
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\Classes\bin\Debug\Classes.pdb
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\Classes\obj\Debug\Classes.dll
+C:\Users\stevan\Desktop\New folder\hci\Projekti\Projekat1\WpfApp-StevanDobrijevic\Classes\obj\Debug\Classes.pdb
